@@ -1,5 +1,15 @@
 # CTF-Resources
 
+## Overall
+
+[guidebook](https://trailofbits.github.io/ctf/)
+
+[ctf-cheatsheet repo](https://github.com/Rajchowdhury420/CTF-CheatSheet)
+
+[another cheatsheet](https://twin-security.com/ctf-cheatsheet/)
+
+
+
 ## Web
 
 [XSS](https://owasp.org/www-community/attacks/xss/)
