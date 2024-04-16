@@ -26,3 +26,5 @@
 
 [Pwn tips repo](https://github.com/Naetw/CTF-pwn-tips)
 
+[pwninit](https://github.com/io12/pwninit)
+
